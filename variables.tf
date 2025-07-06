@@ -1,4 +1,4 @@
-variable "kubernetes_version" {
+svariable "kubernetes_version" {
   default     = 1.27
   description = "kubernetes version"
 }
